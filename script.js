@@ -1,4 +1,4 @@
-# Lanzamiento_Dados
+
 function calcular()
       {
         var tirar; f=[0,0,0,0,0,0,0]
@@ -44,3 +44,5 @@ var oilData = {
 
 }
  
+
+
